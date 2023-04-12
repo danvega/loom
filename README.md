@@ -22,11 +22,11 @@ A thread in Java is tied to an Operating System thread. This means that each thr
 
 ![Java is made of Threads](./images/java-is-made-of-threads.png)
 
-## Thread Per Request Solutions
+## Scalability Solutions
 
 There are a few solutions to the thread-per-request model. One solution is to add more hardware. This will allow you to increase the number of threads that the Operating System can handle. Another solution is to use asynchronous programming. This will allow you to use a single thread to handle multiple requests.
 
-![Thread Per Request Solutions](./images/thread-per-request-solutions.png)
+![Scalability Solutions](./images/scalability-solutions.png)
 
 ## Virtual Threads
 
